@@ -41,7 +41,7 @@ The dataset contains order-level transactional data with attributes like order d
 
 | order_id | customer_name | order_date | ship_date | product | quantity | price | total_price | region |
 |----------|----------------|------------|-----------|---------|----------|-------|--------------|--------|
-| 2001     | Chris Paul     | 2025-03-08 | 2025-03-28| Charger | 3        | 50.0  | -85          | East   |
+| 2001     | Chris Paul     | 2025-03-08 | 2025-03-28| Charger | 3        | 50.0  |     150      | East   |
 
 ---
 
